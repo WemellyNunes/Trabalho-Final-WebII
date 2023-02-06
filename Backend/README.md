@@ -24,4 +24,4 @@ Primeira parte do projeto, desenvolvevimento de uma API REST com Node.js, Expres
 
 <br>
 
-## Operações do CRUD
+## Operações do CRUD - Insomnia
