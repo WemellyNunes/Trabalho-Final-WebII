@@ -3,7 +3,7 @@
 <hr><br>
 
 ## 📄 Sobre
-Primeira parte do projeto, desenvolvevimento de uma API REST com Node.js, Express e MySQL, e operações do CRUD para comprovação do funcionamento da API.
+Primeira parte do projeto, desenvolvevimento de uma API REST com Node.js, Express e MySQL, e todas as operações do CRUD para comprovação do funcionamento da API.
 
 <br>
 
