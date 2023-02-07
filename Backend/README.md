@@ -25,3 +25,8 @@ Primeira parte do projeto, desenvolvimento de uma API REST com Node.js, Express 
 <br>
 
 ## Operações do CRUD - Insomnia
+
+<details>
+<summary>GET</summary>
+<img align="center" width='700' src='./imgs/fluxograma.jpeg' alt='Fluxograma' title='Modelo Logico'>
+</details>
