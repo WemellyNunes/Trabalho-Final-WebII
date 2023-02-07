@@ -31,7 +31,7 @@ Primeira parte do projeto, desenvolvimento de uma API REST com Node.js, Express 
 ## Operações do CRUD - Insomnia
 
 <details>
-<summary>GET</summary>
+  <summary><strong>GET:</strong></summary>
 <div>
 <details>
 <summary>Products</summary>
@@ -74,7 +74,76 @@ Primeira parte do projeto, desenvolvimento de uma API REST com Node.js, Express 
 <p>GET oneGet - Busca uma venda especifica</p>
 <img align="center" width='500' src='./imgs/get-store-getOne.png'>
 </details>
+  </details>
 
+  <details>
+    <summary><strong>POST:</strong></summary>
+    <details>
+    <summary>Products</summary>
+      <p>Cadastrar produto</p>
+      <img align="center" width='500' src='./imgs/post-products-insert.png'>
+    </details>
+    <details>
+    <summary>Store</summary>
+      <p>Cadastrar loja</p>
+      <img align="center" width='500' src='./imgs/post-store-insert.png'>
+    </details>
+    <details>
+    <summary>Persons</summary>
+      <p>Cadastrar pessoas</p>
+      <img align="center" width='500' src='./imgs/post-persons.png'>
+    </details>
+    <details>
+    <summary>Sales</summary>
+      <p>Cadastrar vendas</p>
+      <img align="center" width='500' src='./imgs/post-persons.png'>
+    </details>
+    </details>
 
+  <details>
+    <summary><strong>PUT:</strong></summary>
+    <details>
+    <summary>Products</summary>
+      <p>Atualizar um produto</p>
+      <img align="center" width='500' src='./imgs/put-products-update.png'>
+    </details>
+       <details>
+    <summary>Store</summary>
+      <p>Atualizar uma loja</p>
+      <img align="center" width='500' src='./imgs/put-store.png'>
+    </details>
+    <details>
+    <summary>Persons</summary>
+      <p>Atualizar um tipo de pessoa</p>
+      <img align="center" width='500' src='./imgs/put-persons-update.png'>
+    </details>
+     <details>
+    <summary>Sales</summary>
+      <p>Atualizar uma venda</p>
+      <img align="center" width='500' src='./imgs/put-persons-update.png'>
+    </details>
+  </details>
 
-
+  <details>
+    <summary><strong>DELETE:</strong></summary>
+     <details>
+    <summary>Products</summary>
+      <p>Deletar um produto</p>
+      <img align="center" width='500' src='./imgs/delete-products.png'>
+    </details>
+    <details>
+    <summary>Store</summary>
+      <p>Deletar uma loja</p>
+      <img align="center" width='500' src='./imgs/delete-store.png'>
+    </details>
+     <details>
+    <summary>Persons</summary>
+      <p>Deletar um tipo de pessoa</p>
+      <img align="center" width='500' src='./imgs/delete-persons.png'>
+    </details>
+    <details>
+    <summary>Sales</summary>
+      <p>Deletar uma venda</p>
+      <img align="center" width='500' src='./imgs/delete-persons.png'>
+    </details>
+  </details>
