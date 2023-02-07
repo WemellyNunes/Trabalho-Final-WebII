@@ -28,7 +28,7 @@ Primeira parte do projeto, desenvolvimento de uma API REST com Node.js, Express 
 <img align="center" width='600' src='./imgs/tables.jpeg' title='Tables'>
 <figcaption>Quatro tabelas: <strong>Products, Store, Persons, Sales </strong>.</figcaption>
 
-## Operações do CRUD - Insomnia
+## Operações CRUD - Insomnia
 
 <details>
   <summary><strong>GET:</strong></summary>
